@@ -8,7 +8,7 @@ WhatsApp Web - Complete Guide to Use WhatsApp in Your Web Browser
    :align: center
    
 
-WhatsApp Web lets you send and receive messages directly from your computer through a browser. Just visit web.whatsapp.com, scan the QR code using your mobile WhatsApp app, and instantly sync your messages for fast, convenient desktop use. Whether you're working, studying, or just prefer typing on a full keyboard, WhatsApp Web is the perfect companion.
+WhatsApp Web lets you send and receive messages directly from your computer through a browser. Just visit `web.whatsapp.com <https://web.whatsapp.com>`_, scan the QR code using your mobile WhatsApp app, and instantly sync your messages for fast, convenient desktop use. Whether you're working, studying, or just prefer typing on a full keyboard, WhatsApp Web is the perfect companion.
 
 What Is WhatsApp Web?
 =========================================================
