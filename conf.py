@@ -21,7 +21,7 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "WhatsApp Web - Complete Guide to Use WhatsApp in Your Web Browser
+html_title = "WhatsApp Web - Complete Guide to Use WhatsApp in Your Web Browser"
 
 # Optional short title (e.g., for nav bar)
 html_short_title = "WhatsApp web login online"
