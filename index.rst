@@ -4,7 +4,7 @@ WhatsApp Web - Complete Guide to Use WhatsApp in Your Web Browser
 
 .. image:: get-start-button.png
    :alt: WhatsApp Web online login
-   :target: https://sites.google.com/view/wwwwhatsappweblogin/
+   :target: https://pre.im/?4YTrHbkkyqwGV89wDkPMUzDmS7ra0mXHTfAt31rH4PJr8LuJeS8BDMQgrnBqHu1bpCoaSGtEbeUWi
    :align: center
    
 
